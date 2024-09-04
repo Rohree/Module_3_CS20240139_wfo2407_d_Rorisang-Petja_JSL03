@@ -2,7 +2,7 @@
 
 ## Objective
 
-- In this repo we look at two programmings that are written in two defferent style but do exactly the same thing.
+- In this repo we look at two programmes that are written in two defferent style but do exactly the same thing.
 
 ## Loom Link:
 
